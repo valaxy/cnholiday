@@ -1,3 +1,4 @@
+[cn_stock_holidays](https://github.com/rainx/cn_stock_holidays) is a another repo which can help you find trade-day of market
 
 ```python
 from datetime import date
